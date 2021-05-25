@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(3, 88, 24);
+  color: linen;
+}
+
+#bio {
+  border-style: solid;
+  border-color: linen;
+  border-width: 0.2rem;
+  padding: 0.4rem;
+  width: 30%;
+}

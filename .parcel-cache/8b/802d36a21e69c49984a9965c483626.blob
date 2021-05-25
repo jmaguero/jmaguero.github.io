@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=100%, initial-scale=1.0">
+    <title>Juan Manuel Aguero's Website</title>
+    <link rel="stylesheet" href="/index.HASH_REF_032388d8269b41e5fa7e71dda45764df.css">
+  </head>
+  <header>
+    <h1>Juan_Manuel_Aguero's Website</h1>
+    <h2>Web developer on his way</h2>
+  </header>
+  <body>
+    <section id="bio">
+      <div>
+        <div>
+          <h2>A_bit_about_me</h2>
+          <p>
+            Born and raised in City Bell, Buenos Aires, Argentina, in the lates
+            80's. Last kid from a beautiful young proffesionals family. My
+            mother is a Biochemist, my father was an Electrical Engineer. My
+            school was quite special, not because I'm a genius -I'm not- but my
+            parents believed in a different education's model in which
+            challenging yourself and collaborative working are the core values.
+          </p>
+          <p>
+            I believe in a better future for everyone, although I know the
+            world's situation isn't the best it's so far way better than 50
+            years ago. I hold some hope. I like reading, cooking, biking,
+            skating, travelling, swimming, jumping, dancing, living!. I love
+            sustainability, grow my own vegetables, utilize my stuff till is
+            O-V-E-R. A puzzle solving mind, a neat guy.
+          </p>
+        </div>
+        <div>
+          <q>
+            The strength of the team is each individual member. The strength of
+            each member is the team. – Phil Jackson
+          </q>
+        </div>
+        <div>
+          <p>
+            How do I arrived to IT? Well, a bunch of reasons I think, but the
+            main one is that I grew up surrounded of people related with IT.
+          </p>
+        </div>
+      </div>
+      <div>
+        <div>
+          <h3>My_background</h3>
+          <p>
+            After the school I went to study Anthropology, at Universidad
+            Nacional de La Plata, Argentina. As interesting topics for my actual
+            profession I've learned Mathematics and Statistics. When I was
+            finishing my degree subjects I decided to open a small biological
+            grocerie's store. There I did my website, Wordpress + Woocommerce,
+            and the marketing stuff, among all the other business daily tasks.
+            Five years later I decided to move forward because I felt myself
+            stuck doing everyday exactly the same, like "The groundhog's day",
+            with Bill Murray. I would I fully enjoyed those years and I've got
+            tons of learnings about life and proffesion. Right after I began
+            working doing Digital Marketing and to study Web Development in
+            <a href="https://freecodecamp.org">FreeCodeCamp</a>
+          </p>
+        </div>
+        <div>
+          Present: While I achieve the goal of becoming a full-stack developer I
+          do Digital Marketing.
+        </div>
+        <div id="projects-done">
+          What I do have done:
+          <a href="https://jmaguero.github.io/products_landing_page/">Responsive Product landing page</a>
+        </div>
+        <div>
+          <div>
+            Along this journey I have acquired an interesting skills set.
+            Amongst others:
+            <div class="skillset">
+              <ul>
+                <li>
+                  #Web_Development
+                  <ul>
+                    <li>#HTML</li>
+                    <li>#CSS</li>
+                    <li>#Javascript</li>
+                    <li>#Figma</li>
+                    <li>#Bootstrap</li>
+                    <li>#Highcharts</li>
+                    <li>#TailwindCSS</li>
+                    <li>#Vue.js</li>
+                    <li>#Wordpress & Elementor</li>
+                  </ul>
+                </li>
+              </ul>
+              <ul>
+                <li class="tooltip">
+                  #Digital_Marketing
+                  <span class="tooltiptext">Tooltip text</span>
+                  <ul>
+                    <li>#Google Tag Manager</li>
+                    <li>#Google Analytics</li>
+                    <li>#Google Ads</li>
+                    <li>#Google Data Studio</li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+            <p>
+              It's just exciting to repass all I have learned from that time on.
+              :)
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="present-projects">
+      <h2>My present</h2>
+      <p>
+        I'm developing a platform with Vue 3 to give away plants. People is
+        wasting alive plants and I wonder why?
+      </p>
+    </section>
+  </body>
+</html>
+<script src="/index.HASH_REF_42412dc50fd44bf0205308ab01a1c8c0.js"></script>

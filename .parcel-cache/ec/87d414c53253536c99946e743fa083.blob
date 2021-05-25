@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(3, 88, 24);
+  color: linen;
+}
+
+#bio {
+  border-style: solid;
+  border-color: linen;
+  border-width: 0.2rem;
+  padding: 0.4rem;
+  width: 30%;
+}
+
+/*# sourceMappingURL=index.HASH_REF_032388d8269b41e5fa7e71dda45764df.css.map */

@@ -1,0 +1,18 @@
+body {
+  background-color: #315c2b;
+  color: linen;
+}
+div {
+  margin: 1em;
+}
+
+#bio {
+  display: flex;
+  border-style: solid;
+  border-color: linen;
+  border-width: 0.2rem;
+  padding: 1rem 2rem;
+  width: 90%;
+}
+
+/*# sourceMappingURL=index.HASH_REF_032388d8269b41e5fa7e71dda45764df.css.map */
